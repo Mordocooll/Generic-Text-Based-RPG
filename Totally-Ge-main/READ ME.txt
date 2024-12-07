@@ -1,0 +1,11 @@
+CS 1010-03
+
+Group#1
+Members: Aidan Sanchez, Albert Alvarez, Jianhao Huang, Ronald Aguilar
+
+CAUTION: We Used Pillow so we can resize our image to fit every user's screen. We also force user to stay in full screen for better experience.
+
+To run our program make sure to UNZIP "Generic-Text-Based-RPG-FINAL-FINAL-main(FINAL#2)" folder or drag the unzip version out of the folder. Next open Visual Studio Code, and remember to open the unzip "Generic-Text-Based-RPG-FINAL-FINAL-main(FINAL#2)" folder or the "Totally-Ge-main" folder inside of the Visual Studio Code. Then you should be able to see many image and py file. Please select the Run Me.py file and run it. Then you should be able to enjoy the game.(Reminder: Inside the Unzipped "Generic-Text-Based-RPG-FINAL-FINAL-main(FINAL#2)" folder there is a folder called "Totally-Ge-main" folder which contain all the code and image we used."
+
+
+One thing we notice when we run the program, due to the limitation of place manager sometime button location might be a little different depend on what the user screen size. We really try hard trying to fix this by using grid manager instead, but we weren't able to come up with a satisfy result to the time limitation on this project. So we apologize if the visual of the game might be a little weird.
